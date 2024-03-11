@@ -21,6 +21,17 @@ Apasionado a la programación.
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
+
+## Encuéntrame en:
+
+[![Twitter](https://img.shields.io/badge/Twitter-@aodaru-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/aodaru)
+[![Instagram](https://img.shields.io/badge/Instagram-@aodarug-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/aodarug/)
+[![Facebook](https://img.shields.io/badge/Facebook-@adalg1-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/adalg1)
+</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adal_Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/adal-garcia-471889197/)
+[![Web](https://img.shields.io/badge/adalgarcia.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://adalgarcia.com)
+
+
 <!--
 **aodaru/aodaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
