@@ -1,7 +1,7 @@
+<div style="width: 100%; margin: auto;">
 # 🍵 Hola, me llamo Adal Michael García 🖖
 
-<div style="width: 100%; margin: auto;">
-[logo](TazaCafeASCII.gif)
+![logo](TazaCafeASCII.gif)
 </div>
 <!--
 **aodaru/aodaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
