@@ -1,6 +1,6 @@
-<div style="width: 100%; margin: auto;">
 # 🍵 Hola, me llamo Adal Michael García 🖖
 
+<div style="display: block; width: 50%; margin-right: auto; margin-left: auto;">
 ![logo](TazaCafeASCII.gif)
 </div>
 <!--
