@@ -1,6 +1,8 @@
 # 🍵 Hola, me llamo Adal Michael García 🖖
 
-![logo](TazaCafeASCII.gif)
+<center>
+  ![logo](TazaCafeASCII.gif)
+</center>
 <!--
 **aodaru/aodaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
