@@ -1,0 +1,36 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Stats Card
+        run: |
+          mkdir -p profile
+          
+          # Stats Card
+          curl -o profile/stats.svg -s "https://github-readme-stats.vercel.app/api?username=aodaru&theme=dark&show_icons=true&rank_icon=github&text_bold=true&hide_rank=true&border_color=2f80ed&bg_color=0d1117"
+          
+          # Streak Card  
+          curl -o profile/streak.svg -s "https://github-readme-streak-stats.herokuapp.com/?user=aodaru&theme=dark&border_color=2f80ed&bg_color=0d1117&hide_border=true"
+          
+          # Top Languages Card
+          curl -o profile/top-langs.svg -s "https://github-readme-stats.vercel.app/api/top-langs/?username=aodaru&theme=dark&layout=compact&hide_border=true&bg_color=0d1117"
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Update README stats cards"
+          git push

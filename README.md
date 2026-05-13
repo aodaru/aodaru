@@ -4,11 +4,32 @@
   <img src="TazaCafeASCII.gif" alt="logo">
 </p>
 
-Soy ingeniero en sistema. Profesional desde hace más de 14 años.
+---
 
-Apasionado a la programación.
+## 👨‍💻 About Me | Sobre Mí
 
-## Tecnologías:
+Systems Engineer with **+14 years** of experience. Passionate about programming 
+and continuous learning. Currently learning **Rust** and **Python**.
+
+🔭 **Currently learning:** Rust 🦀 | Python 🐍
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="profile/stats.svg" alt="GitHub Stats" width="45%" />
+  <img src="profile/streak.svg" alt="GitHub Streak" width="45%" />
+</p>
+
+<p align="center">
+  <img src="profile/top-langs.svg" alt="Top Languages" width="50%" />
+</p>
+
+---
+
+## 🛠️ Tech Stack | Tecnologías
+
 [![PHP](https://img.shields.io/badge/PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/docker-F7DF1E?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 </br>
@@ -20,9 +41,14 @@ Apasionado a la programación.
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+
 Y alguna más...
 
-## Encuéntrame en:
+---
+
+## 🌐 Connect | Encuéntrame en:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@aodaru-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/aodaru)
 [![Instagram](https://img.shields.io/badge/Instagram-@aodarug-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/aodarug/)
@@ -31,18 +57,8 @@ Y alguna más...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adal_Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/adal-garcia-471889197/)
 [![Web](https://img.shields.io/badge/adalgarcia.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://adalgarcia.com)
 
+---
 
-<!--
-**aodaru/aodaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aodaru&label=Profile%20Views&color=2f80ed&style=flat" alt="Visitors" />
+</p>
